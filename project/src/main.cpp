@@ -23,6 +23,9 @@ int main(int argc, char* argv[])
 {
     // commandLineArguments(argc, argv);
     // showTypes();
+    // selectionStatements();
+    // iterationStatements();
+    // jumpStatements();
 
     return 0;
 }
