@@ -9,3 +9,6 @@
 
 # Ignoring cmake.pdf (too heavy for uploading on GitHub)
 cmake.pdf
+
+# Ignoring vscode folder
+.vscode
