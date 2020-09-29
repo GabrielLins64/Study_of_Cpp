@@ -2,6 +2,8 @@
     This file contains some extra C++ resources, good practices and compiling tips.
 */
 
+// ~~~~~~~~~~~~~ X ~~~~~~~~~~~~~ X ~~~~~~~~~~~~~ 
+
 /*
     Compiling tips:
 
