@@ -13,3 +13,9 @@ Includes:
 	- C++ Keywords, operators and control statements;
 
 	- Extra...
+
+### References:
+
+[1] http://www.cplusplus.com/
+
+[2] SCHILDT, H. (2002). <i>C++: A Beginner's Guide</i>. Editora Ciência Moderna.
