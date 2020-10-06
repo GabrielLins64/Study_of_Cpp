@@ -1,9 +1,6 @@
 # Ignore all
 *
 
-# Ignore all inside folders
-*/*
-
 # Unignore all with extensions
 !*.*
 
