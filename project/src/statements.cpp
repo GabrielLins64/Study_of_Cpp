@@ -1,5 +1,4 @@
-#include "statements.hpp"
-#include <iostream>
+#include <statements.hpp>
 
 /*
     Programs are not limited to a linear sequence of statements. 
@@ -8,7 +7,7 @@
     done by our program, when, and under which circumstances.
 */
 
-bool isEqual(int a, int b)
+inline bool isEqual(int a, int b)
 {
     return (a == b ? true : false);
 }

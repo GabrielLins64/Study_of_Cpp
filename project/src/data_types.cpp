@@ -1,26 +1,17 @@
-/*
-    Standard and other C++ data types
-*/
-
-#include "data_types.hpp"
-#include <iostream> // cout
-#include <typeinfo> // typeid()
-#include <limits> // numeric_limits
-
-using namespace std;
+#include <data_types.hpp>
 
 template <typename T>
-void showTypeInfo(const char* tp)
+void showTypeInfo(const char* tp_name)
 {
-    cout << "~~~~~~~~~ X ~~~~~~~~~ X ~~~~~~~~~" << endl;
-    cout << "Type: " << tp << endl;
-    cout << "Size of " << typeid(T).name() << ": " << sizeof(T) << " bytes" << endl;
-    cout << "Minimum value: " << numeric_limits<T>::min() << endl;
-    cout << "Maximum value: " << numeric_limits<T>::max() << endl;
-    cout << "Is signed: " << numeric_limits<T>::is_signed << endl;
-    cout << "Non-sign bits: " << numeric_limits<T>::digits << endl;
-    cout << "Has infinity: " << numeric_limits<T>::has_infinity << endl;
-    cout << "~~~~~~~~~ X ~~~~~~~~~ X ~~~~~~~~~" << endl;
+    std::cout << "~~~~~~~~~ X ~~~~~~~~~ X ~~~~~~~~~" << std::endl;
+    std::cout << "Type: " << tp_name << std::endl;
+    std::cout << "Size of " << typeid(T).name() << ": " << sizeof(T) << " bytes" << std::endl;
+    std::cout << "Minimum value: " << std::numeric_limits<T>::min() << std::endl;
+    std::cout << "Maximum value: " << std::numeric_limits<T>::max() << std::endl;
+    std::cout << "Is signed: " << std::numeric_limits<T>::is_signed << std::endl;
+    std::cout << "Non-sign bits: " << std::numeric_limits<T>::digits << std::endl;
+    std::cout << "Has infinity: " << std::numeric_limits<T>::has_infinity << std::endl;
+    std::cout << "~~~~~~~~~ X ~~~~~~~~~ X ~~~~~~~~~" << std::endl;
 }
 
 void showTypes()

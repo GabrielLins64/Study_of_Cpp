@@ -1,9 +1,4 @@
-/*
-    Basic and advanced C++ standard concepts.
-*/
-
-#include <iostream>
-#include "concepts.hpp"
+#include <concepts.hpp>
 
 using namespace std;
 
