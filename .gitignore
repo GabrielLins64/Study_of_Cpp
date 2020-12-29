@@ -7,8 +7,8 @@
 # Unignore all dirs
 !*/
 
-# Ignoring cmake.pdf (too heavy for uploading on GitHub)
-cmake.pdf
+# Ignoring pdfs
+*.pdf
 
 # Ignoring vscode folder
 .vscode
