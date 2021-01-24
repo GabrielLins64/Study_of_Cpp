@@ -20,7 +20,7 @@
  * 
  * @param a First integer
  * @param b Second integer
- * @return true 
+ * @return true If a is equal to b
  * @return false 
  */
 inline bool isEqual(int a, int b);

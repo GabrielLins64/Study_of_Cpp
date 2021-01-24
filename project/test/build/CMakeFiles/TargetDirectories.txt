@@ -1,0 +1,3 @@
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/CMakeFiles/Study_of_Cpp.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/CMakeFiles/edit_cache.dir
