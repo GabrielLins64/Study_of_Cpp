@@ -28,8 +28,9 @@ So, if you already have compiled all the sources and modified only a few of thes
 
 > *$ ./bin/run.out*
 
-- **Automating with shell scripts:** You always can automatizate those tasks using *shell scripts* (".sh" files), like the one in this chapter. A more appropriate alternative would be compile all using *cmake*, which will be described below. 
+- **Automating with shell scripts:** You always can automatizate those tasks using *shell scripts* (".sh" files), like the one in the "project" directory. A more appropriate alternative would be compile all using *cmake*, which will be described below. 
 
 ---
 
 ## Cmake
+
