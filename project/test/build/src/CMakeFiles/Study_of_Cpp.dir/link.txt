@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Study_of_Cpp.dir/cmake_test.cpp.o  -o ../bin/Study_of_Cpp ../lib/MathFunctions/libMathFunctions.a 

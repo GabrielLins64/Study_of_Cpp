@@ -34,3 +34,31 @@ So, if you already have compiled all the sources and modified only a few of thes
 
 ## Cmake
 
+#### *Work in Progress
+
+CMake is an cross-platform, free and open-source tool that enables build automation, testing and packaging using a compiler-independent method. It is, in summary, an build-system generator tool. 
+
+In order to use CMake in our project, we need to create a file with the name "CMakeLists.txt" in each directory containing source or header files used in the project. The CMakeLists.txt at the root directory (*project* in our case), will define the main settings for the project, and include the necessary directories, as the *src*, *include*, *lib*, etc.
+
+All CMakeLists.txt in this project have comments explaining every line of cmake command.
+
+In order to compile and run the project using cmake, first create an *build* directory, if it doesn't exists, then navigate to it:
+
+> \$ mkdir -p build 
+> \$ cd build
+
+Then run CMake to configure the project and generate a native build system:
+
+> $ cmake ../
+
+Finally, call the build system to compile and link the project:
+
+> $ cmake --build .
+
+You can now run your executable wherever cmake generated it, e.g.:
+
+> $ ./bin/Study_of_Cpp
+
+A more detailed tutorial can be seen in [4].
+
+*Se o arquivo de input de configuração está no diretório de "include", o arquivo header gerado estará, também, num diretório de include que, no entanto será gerado dentro do nosso diretório de build ${PROJECT_BINARY_DIR}.

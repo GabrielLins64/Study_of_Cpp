@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/lib/MathFunctions/mysqrt.cpp
+iostream
+-
+
