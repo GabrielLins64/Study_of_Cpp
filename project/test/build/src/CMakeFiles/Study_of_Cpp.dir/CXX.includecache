@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/cmake_test.cpp
+../lib/MathFunctions/MathFunctions.h
+
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/src/cmake_test.cpp
 cmath
 -
 iostream
@@ -15,6 +17,8 @@ string
 -
 TutorialConfig.h
 -
+MathFunctions.h
+-
 
-TutorialConfig.h
+include/TutorialConfig.h
 

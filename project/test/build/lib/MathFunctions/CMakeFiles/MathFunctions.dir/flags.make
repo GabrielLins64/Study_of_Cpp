@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build 
+CXX_INCLUDES = 
 

@@ -1,3 +1,12 @@
 /home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/CMakeFiles/rebuild_cache.dir
-/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/CMakeFiles/Study_of_Cpp.dir
 /home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/lib/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/lib/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/lib/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/lib/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/lib/MathFunctions/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/src/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/src/CMakeFiles/Study_of_Cpp.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/src/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/include/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/test/build/include/CMakeFiles/edit_cache.dir

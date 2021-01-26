@@ -14,13 +14,15 @@ The final version of this repository should include and teach:
 
 	- C++ Keywords, operators and control statements;
 
-	- Cross-platform third party System, Networking and Graphics APIs;
+	- Cross-platform third party System, Networking and Graphics APIs and libraries;
 
 	- Documentation with Doxygen;
 
-	- Compilation commands and automation with CMake;
+	- Build automation with CMake and Unix Shell Scripts;
 
 	- Features of the newest C++ versions;
+
+	- Boost C++ Libraries;
 
 	- And extras...
 
