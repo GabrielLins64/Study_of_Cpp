@@ -24,7 +24,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 # set the value each time they run CMake on a build
 # directory. In case you want to change it by com-
 # mand-line, use:
-# $ cmake ../src -DUSE_MYMATH=OFF
+# $ cmake ../ -DUSE_MYMATH=OFF
 # Then rebuild and run.
 option(USE_MYMATH "Use tutorial provided math implementation" ON)
 

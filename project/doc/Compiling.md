@@ -38,7 +38,7 @@ So, if you already have compiled all the sources and modified only a few of thes
 
 CMake is an cross-platform, free and open-source tool that enables build automation, testing and packaging using a compiler-independent method. It is, in summary, an build-system generator tool. 
 
-In order to use CMake in our project, we need to create a file with the name "CMakeLists.txt" in each directory containing source or header files used in the project. The CMakeLists.txt at the root directory (*project* in our case), will define the main settings for the project, and include the necessary directories, as the *src*, *include*, *lib*, etc.
+In order to use CMake in our project, we need to create a file with the name "CMakeLists.txt" in each directory containing source or header files used in the project. The CMakeLists.txt at the root directory (*project* in our case) will define the main settings for the project and include the necessary directories, like *src*, *include*, *lib*, etc.
 
 All CMakeLists.txt in this project have comments explaining every line of cmake command.
 
