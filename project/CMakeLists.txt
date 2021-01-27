@@ -15,10 +15,8 @@ set(PROJECT_INCLUDE_DIR "${PROJECT_SOURCE_DIR}/include")
 set(PROJECT_LIB_DIR "${PROJECT_SOURCE_DIR}/lib")
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}/bin")
 
-# The includes directory
-include_directories(${PROJECT_INCLUDE_DIR})
-
-# Adding subdirectories for tracking other CMakeLists.txt files
+# Adding subdirectories for tracking other CMakeLists.txt files.
+# The order of the included directories is relevant
 add_subdirectory(lib)
-add_subdirectory(include)
 add_subdirectory(src)
+add_subdirectory(include)

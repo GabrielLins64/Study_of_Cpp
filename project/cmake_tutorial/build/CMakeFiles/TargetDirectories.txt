@@ -1,0 +1,12 @@
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/lib/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/lib/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/lib/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/lib/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/lib/MathFunctions/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/src/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/src/CMakeFiles/Study_of_Cpp.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/src/CMakeFiles/edit_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/include/CMakeFiles/rebuild_cache.dir
+/home/data-hunter/Computacao/DEV/Projects/Study_of_Cpp/project/cmake_tutorial/build/include/CMakeFiles/edit_cache.dir
